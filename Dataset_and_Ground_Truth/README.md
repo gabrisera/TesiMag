@@ -15,7 +15,7 @@ On data folder you'll find the output of EyesWeb. each file has 8 columns:
 for our first pourpuse we had not considered the Chest KE (2) 
 
 ## Ground_Truth folder
-There you can find for each video in which second (with centesimal precision) occurs a saliency for us. (a saliency oriented to the ML algorithm)
+There you can find for each video in which second (with centesimal precision, according with ELAN elaborations) occurs a saliency for us. (the saliency is oriented to the ML algorithm)
 
 ## tsv folder
 In this folder you will find all the tsv cleaned (by using a linear interpolation) from NAN values. 
