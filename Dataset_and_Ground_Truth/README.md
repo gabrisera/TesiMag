@@ -1,6 +1,6 @@
 # Dataset and Ground Truth
 
-## Data folder
+## data folder
 On data folder you'll find the output of EyesWeb. each file has 8 columns:
 1. Global KE
 2. Chest KE
