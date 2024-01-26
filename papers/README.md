@@ -1,0 +1,6 @@
+# PAPERS
+Here you can find some materials from which we took inspiration. 
+## Paper 1:
+CPIM_ETM_2022_DamatoOnetoCamurriAnguitaZarandiFadigaDausilioPozzo_ImportanceMultipleTemporalScalesMotionRecognitionShallowDeepMultiScaleModels.pdf
+## Paper 2:
+The_Importance_of_Multiple_Temporal_Scales_in_Motion_Recognition_when_Shallow_Model_can_Support_Deep_Multi_Scale_Models.pdf
