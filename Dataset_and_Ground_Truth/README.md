@@ -28,4 +28,4 @@ Further, you can find in the TSV_OLD.zip all the not cleaned tsv.
 
 This python file is the algorithm for clening the tsv from nan values. 
 
-*if you use it, remind to delete the intestation of tsv (11 rows), it will give you output a file with data cleaned in which you have to add the intestation that you have deleted before (without intestation EyesWeb doesnt work, and with intestation the file Data_cleaning.py doesnt work).*
+*if you use it, remind to delete the intestation of tsv (11 rows), it will give you as output a file with data cleaned in which you have to add the intestation that you have deleted before (without intestation EyesWeb doesnt work, and with intestation the file Data_cleaning.py doesnt work).*
