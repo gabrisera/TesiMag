@@ -24,4 +24,8 @@ In this folder you will find all the tsv (EyesWeb input) about markers position 
 
 Further, you can find in the TSV_OLD.zip all the not cleaned tsv.
 
-P.S. we could have to adjust some stuff on the algorithm, then maybe we will add some tsv or modify them before using them on the prediction of saliency (ML algorithm).
+## Data_cleaning.py
+
+This python file is the algorithm for clening the tsv from nan values. 
+
+*if you use it, remind to delete the intestation of tsv (11 rows), it will give you output a file with data cleaned in which you have to add the intestation that you have deleted before (without intestation EyesWeb doesnt work, and with intestation the file Data_cleaning.py doesnt work).*
